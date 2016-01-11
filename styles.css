@@ -1,0 +1,59 @@
+#simon{
+  display: inline-block;
+
+}
+#levelmenu{
+  display:inline-block;
+
+}
+.sector{
+  display: inline-block;
+  margin:0;
+  padding: 0;
+  border: 4px black solid;
+  width:200px;
+  height:200px;
+}
+.row{
+  padding: 0;
+  margin:0;
+  width:416px;
+  height:208px;
+}
+.red{
+  background-color: black;
+  border-top-left-radius:
+}
+.darkred{
+  background-color: black;
+  border-top-left-radius:
+}
+.green{
+  background-color: black;
+  float: right;
+  border-top-right-radius:
+}
+.darkgreen{
+  background-color: black;
+    float: right;
+  border-top-right-radius:
+
+}
+.blue{
+  background-color: black;
+  border-bottom-left-radius:
+}
+.darkblue{
+  background-color: black;
+  border-bottom-left-radius:
+}
+.yellow{
+  background-color: black;
+  float: right;
+  border-bottom-right-radius:
+}
+.gold{
+  background-color: black;
+  float: right;
+  border-bottom-right-radius:
+}
