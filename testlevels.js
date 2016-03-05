@@ -60,19 +60,3 @@ setTimeout(function(){},2250);
 setTimeout(function(){},3000);
 setTimeout(function(){},3750);
 }
-
-function leveltwo(){
-
-
-}
-
-
-function levelthree(){
-
-
-}
-
-function levelfour(){
-
-  
-}
